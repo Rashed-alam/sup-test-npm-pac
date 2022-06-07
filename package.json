@@ -1,0 +1,22 @@
+{
+  "name": "sup-test-npm-pac",
+  "version": "1.0.0",
+  "description": "testing a package build",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rashed-alam/sup-test-npm-pac.git"
+  },
+  "keywords": [
+    "sup"
+  ],
+  "author": "rashed alam",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Rashed-alam/sup-test-npm-pac/issues"
+  },
+  "homepage": "https://github.com/Rashed-alam/sup-test-npm-pac#readme"
+}
